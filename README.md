@@ -1,2 +1,2 @@
-﻿# Algoritmos-e-Programacao-Prof-Calveti
-Aqui e o repositorio de todos os projetos que foram realizados por mim para aulas do prof. Calveti.
+﻿# USJT
+Aqui e o repositorio de todos os exercicio feitos na USJT.

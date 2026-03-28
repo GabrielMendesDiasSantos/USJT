@@ -1,2 +1,2 @@
 ﻿# USJT
-Aqui e o repositorio de todos os exercicio feitos na USJT.
+Portfolio academico onde tera projetos realizados na Universidade São Judas Tadeu, com finalidade de mostrar evolucao e habilidades.
